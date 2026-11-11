@@ -1,0 +1,5 @@
+# Скопируйте в local.properties (файл не попадает в git)
+sdk.dir=/path/to/Android/sdk
+# API-ключ NeuralDeep (чат + распознавание речи). Без ключа разделы ИИ
+# работают только с локальными серверами без авторизации.
+neuraldeep.apiKey=
